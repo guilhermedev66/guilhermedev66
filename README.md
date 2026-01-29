@@ -1,4 +1,4 @@
-## # 👩🏻‍💻 Larissa Kich
+## # Guilherme Santos
 
 **`Desenvolvedora FullStack`**
 
