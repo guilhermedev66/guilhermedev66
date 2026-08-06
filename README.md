@@ -34,7 +34,7 @@ Conquistar uma oportunidade de estágio em desenvolvimento Back-End com C#/.NET,
 
 ### 📌 Projeto em destaque
 
-**[TaskManagerAPI](https://github.com/guilhermedev66/TaskManagerAPI)** — API REST em ASP.NET Core para gerenciamento de tarefas. Projeto de estudo em desenvolvimento ativo: a estrutura inicial do Web API já está criada, e os próximos passos são a implementação de autenticação JWT, Entity Framework Core e documentação via Swagger.
+**[TaskManagerAPI](https://github.com/guilhermedev66/TaskManagerAPI)** — API REST completa em ASP.NET Core para gerenciamento de tarefas, com autenticação JWT, Entity Framework Core (com migrations), validações e documentação via Swagger.
 
 ### 📊 Estatísticas
 
@@ -50,16 +50,10 @@ Conquistar uma oportunidade de estágio em desenvolvimento Back-End com C#/.NET,
 <details>
   <summary>🏆 Trophies</summary>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guilhermedev66&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8&title.color=B39EEF" alt="trophies" />
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=guilhermedev66&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8&title.color=B39EEF" alt="trophies" />
 
 </details>
 
 ---
 
-<div align="center">
-
-  📍 Hortolândia/Campinas, SP · guilhermenovo663@gmail.com
-
-  </div>
+📍 Hortolândia/Campinas, SP · guilhermenovo663@gmail.com
