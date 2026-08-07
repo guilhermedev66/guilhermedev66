@@ -6,7 +6,8 @@
 
 Estudante de Engenharia de Software, em busca da minha primeira oportunidade de estágio em desenvolvimento Back-End.
 
-<a href="https://portfolio-guilherme-three-beryl.vercel.app"><img src="https://api.iconify.design/simple-icons/vercel.svg?color=%23B39EEF" width="32" height="32" alt="Portfólio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/guilherme-devvv/"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%23B39EEF" width="32" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:guilhermenovo663@gmail.com"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23B39EEF" width="32" height="32" alt="Gmail" /></a>
+<a href="https://portfolio-guilherme-three-beryl.vercel.app"><img src="https://api.iconify.design/mdi/web.svg?color=%23B39EEF" width="32" height="32" alt="Portfólio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/guilherme-devvv/"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%23B39EEF" width="32" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:guilhermenovo663@gmail.com"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23B39EEF" width="32" height="32" alt="Gmail" /></a><br/>
+<sub>[Portfólio](https://portfolio-guilherme-three-beryl.vercel.app) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/guilherme-devvv/) &nbsp;•&nbsp; [Gmail](mailto:guilhermenovo663@gmail.com)</sub>
 
 
 </div>
