@@ -18,23 +18,39 @@ Estudante de Engenharia de Software, em busca da minha primeira oportunidade de 
 
 Conquistar uma oportunidade de estágio em desenvolvimento Back-End com C#/.NET, colocando em prática o que venho estudando: APIs REST, Entity Framework Core e boas práticas de arquitetura.
 
-### 🛠️ Tecnologias
+---
+
+### 🛠️ Tech stack
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-6C3FDB?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,git,docker,github,githubactions&theme=dark" alt="skill icons" />
+
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-6C3FDB?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-8F6CE4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-6C3FDB?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-512BD4?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermedev66/guilhermedev66/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermedev66/guilhermedev66/output/github-snake.svg" />
+      <img alt="contribution snake" src="https://raw.githubusercontent.com/guilhermedev66/guilhermedev66/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
 
 ### 📌 Projeto em destaque
 
 **[TaskManagerAPI](https://github.com/guilhermedev66/TaskManagerAPI)** — API REST completa em ASP.NET Core para gerenciamento de tarefas, com autenticação JWT, Entity Framework Core (com migrations), validações e documentação via Swagger.
+
+---
 
 ### 📊 Estatísticas
 
@@ -47,13 +63,22 @@ Conquistar uma oportunidade de estágio em desenvolvimento Back-End com C#/.NET,
 
 </div>
 
+---
+
 <details>
   <summary>🏆 Trophies</summary>
 
-<img src="https://github-profile-trophy.vercel.app/?username=guilhermedev66&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8&title.color=B39EEF" alt="trophies" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=guilhermedev66&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8&title.color=B39EEF" alt="trophies" />
+</div>
 
 </details>
 
 ---
 
+
+<div align="center">
+
 📍 Hortolândia/Campinas, SP · guilhermenovo663@gmail.com
+
+</div>
