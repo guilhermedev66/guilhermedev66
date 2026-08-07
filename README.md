@@ -6,19 +6,27 @@
 
 Estudante de Engenharia de Software, em busca da minha primeira oportunidade de estágio em desenvolvimento Back-End.
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-6C3FDB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-guilherme-three-beryl.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-512BD4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-devvv/)
-[![Gmail](https://img.shields.io/badge/Gmail-8F6CE4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermenovo663@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=B39EEF)](https://portfolio-guilherme-three-beryl.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=B39EEF)](https://www.linkedin.com/in/guilherme-devvv/)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=B39EEF)](mailto:guilhermenovo663@gmail.com)
 
 </div>
 
----
+<div align="center">
+
+• • •
+
+</div>
 
 ### 🎯 Objetivo
 
 Conquistar uma oportunidade de estágio em desenvolvimento Back-End com C#/.NET, colocando em prática o que venho estudando: APIs REST, Entity Framework Core e boas práticas de arquitetura.
 
----
+<div align="center">
+
+• • •
+
+</div>
 
 ### 🛠️ Tech stack
 
@@ -32,25 +40,45 @@ Conquistar uma oportunidade de estágio em desenvolvimento Back-End com C#/.NET,
 
 </div>
 
----
+<div align="center">
+
+• • •
+
+</div>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermedev66/guilhermedev66/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermedev66/guilhermedev66/output/github-snake.svg" />
-      <img alt="contribution snake" src="https://raw.githubusercontent.com/guilhermedev66/guilhermedev66/output/github-snake.svg" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermedev66/guilhermedev66/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermedev66/guilhermedev66/output/github-snake.svg" />
+<img alt="contribution snake" src="https://raw.githubusercontent.com/guilhermedev66/guilhermedev66/output/github-snake.svg" />
 </picture>
 
 </div>
 
----
+<div align="center">
+
+• • •
+
+</div>
 
 ### 📌 Projeto em destaque
 
-**[TaskManagerAPI](https://github.com/guilhermedev66/TaskManagerAPI)** — API REST completa em ASP.NET Core para gerenciamento de tarefas, com autenticação JWT, Entity Framework Core (com migrations), validações e documentação via Swagger.
+<div align="center">
 
----
+<a href="https://github.com/guilhermedev66/TaskManagerAPI">
+  <img src="https://opengraph.githubassets.com/1/guilhermedev66/TaskManagerAPI" alt="TaskManagerAPI — API REST em ASP.NET Core" width="600" />
+</a>
+
+</div>
+
+API REST completa em ASP.NET Core para gerenciamento de tarefas, com autenticação JWT, Entity Framework Core (com migrations), validações e documentação via Swagger.
+
+<div align="center">
+
+• • •
+
+</div>
 
 ### 📊 Estatísticas
 
@@ -63,22 +91,29 @@ Conquistar uma oportunidade de estágio em desenvolvimento Back-End com C#/.NET,
 
 </div>
 
----
+<div align="center">
+
+• • •
+
+</div>
 
 <details>
-  <summary>🏆 Trophies</summary>
+<summary>🏆 Trophies</summary>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guilhermedev66&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8&title.color=B39EEF" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=guilhermedev66&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8&title.color=B39EEF" alt="trophies" />
 </div>
 
 </details>
 
----
+<div align="center">
 
+• • •
+
+</div>
 
 <div align="center">
 
-📍 Hortolândia/Campinas, SP · guilhermenovo663@gmail.com
+    📍 Hortolândia/Campinas, SP · guilhermenovo663@gmail.com
 
-</div>
+    </div>
