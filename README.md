@@ -6,9 +6,8 @@
 
 Estudante de Engenharia de Software, em busca da minha primeira oportunidade de estágio em desenvolvimento Back-End.
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=B39EEF)](https://portfolio-guilherme-three-beryl.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=B39EEF)](https://www.linkedin.com/in/guilherme-devvv/)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=B39EEF)](mailto:guilhermenovo663@gmail.com)
+<a href="https://portfolio-guilherme-three-beryl.vercel.app"><img src="https://api.iconify.design/simple-icons/vercel.svg?color=%23B39EEF" width="32" height="32" alt="Portfólio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/guilherme-devvv/"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%23B39EEF" width="32" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:guilhermenovo663@gmail.com"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23B39EEF" width="32" height="32" alt="Gmail" /></a>
+
 
 </div>
 
