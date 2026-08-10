@@ -104,7 +104,7 @@ API REST completa em ASP.NET Core (.NET 10) para gerenciamento de tarefas, com a
 <summary>🏆 Trophies</summary>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=guilhermedev66&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8&title.color=B39EEF" alt="trophies" />
+<img src="https://github-trophies.vercel.app/?username=guilhermedev66&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8&rank=SSS,SS,S,AAA,AA,A,B,C" alt="trophies" />
 </div>
 
 </details>
